@@ -13,7 +13,7 @@ Hasil subnetting :
 #### VLSM
 
 ![alt text](img/vlsm_tree.jpg)
-
+```
 SUBNET      	JUM IP  		SUBMASK		addresses			no di tree		NID			        netmask			        Broadcast ID
 A10	    	  	2023		  	/21		    2048	    		4096 /21			192.168.16.0		255.255.248.0 			192.168.23.255
 A2	    		  1002			  /22	  		1024		    	1024 /22			192.168.4.0			255.255.252.0	  		192.168.7.255
@@ -31,3 +31,4 @@ A12		      	2	  		    /30	  		4			        0 /30	      	192.168.0.0			255.255.255
 A1 (server)		Mojokerto		/30		  	4					                 	10.151.83.20		255.255.255.252			10.151.83.23
 A13	(server)	Malang			/30			  4				                  	10.151.83.16		255.255.255.252			10.151.83.19
 TOTAL     		5851	     	/19						
+```
