@@ -75,3 +75,95 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.1.1
 ```
 
 #### B. CIDR
+
+Hasil subnetting:
+
+![alt text](img/cidr.png)
+
+![alt text](img/cidr_tree.jpg)
+
+Set-up CPT:
+
+![alt text](img/s-surabaya.png)
+
+![alt text](img/s-surabaya1.png)
+
+![alt text](img/s-surabaya2.png)
+
+![alt text](img/s-surabaya3.png)
+
+![alt text](img/s-batu.png)
+
+![alt text](img/s-batu1.png)
+
+![alt text](img/s-batu2.png)
+
+![alt text](img/s-batu3.png)
+
+![alt text](img/s-banyuwangi.png)
+
+![alt text](img/s-blitar.png)
+
+![alt text](img/s-blitar1.png)
+
+![alt text](img/s-bojonegoro.png)
+
+![alt text](img/s-bondowoso.png)
+
+![alt text](img/s-jember.png)
+
+![alt text](img/s-jombang.png)
+
+![alt text](img/s-kediri.png)
+
+![alt text](img/s-kediri1.png)
+
+![alt text](img/s-kediri2.png)
+
+![alt text](img/s-lumajang.png)
+
+![alt text](img/s-madiun.png)
+
+![alt text](img/s-madiun1.png)
+
+![alt text](img/s-malang.png)
+
+![alt text](img/s-mojokerto.png)
+
+![alt text](img/s-nganjuk.png)
+
+![alt text](img/s-pasuruan.png)
+
+![alt text](img/s-pasuruan1.png)
+
+![alt text](img/s-pasuruan2.png)
+
+![alt text](img/s-probolinggo.png)
+
+![alt text](img/s-probolinggo1.png)
+
+![alt text](img/s-probolinggo2.png)
+
+![alt text](img/s-sampang.png)
+
+![alt text](img/s-sidoarjo.png)
+
+![alt text](img/s-tulungagung.png)
+
+Routing:
+
+![alt text](img/batu.png)
+
+![alt text](img/batu1.png)
+
+![alt text](img/blitar.png)
+
+![alt text](img/kediri.png)
+
+![alt text](img/pasuruan.png)
+
+![alt text](img/probolinggo.png)
+
+![alt text](img/surabaya.png)
+
+![alt text](img/surabaya1.png)
