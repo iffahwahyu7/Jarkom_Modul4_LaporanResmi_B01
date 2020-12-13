@@ -12,16 +12,16 @@ Hasil subnetting :
 
 #### A. VLSM
 
-![alt text](img/vlsm_tree.jpg)
+Perhitungan:
 
-perhitungan :
+![alt text](img/vlsm_tree.jpg)
 
 ![alt text](img/perhitungan_vlsm.JPG)
 
 ![alt text](img/perhitungan_routing_vlsm.JPG)
 
 
-Configurasi interfaces
+Configurasi interfaces di UML:
 
 SURABAYA 
 ```
@@ -269,7 +269,7 @@ netmask 255.255.255.0
 gateway 192.168.24.1
 ```
 
-Routing di UML
+Routing:
 
 SURABAYA
 ```
