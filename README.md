@@ -82,6 +82,8 @@ Hasil subnetting:
 
 ![alt text](img/cidr_tree.jpg)
 
+![alt text](img/cidr_cpt.jpg)
+
 Set-up CPT:
 
 ![alt text](img/s-surabaya.png)
