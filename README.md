@@ -10,7 +10,7 @@ Hasil subnetting :
 
 ![alt text](img/subnetting.jpg)
 
-#### VLSM
+#### A. VLSM
 
 ![alt text](img/vlsm_tree.jpg)
 
@@ -73,3 +73,5 @@ BLITAR
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.168.1.1
 ```
+
+#### B. CIDR
